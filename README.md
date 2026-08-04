@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bharath-suntramoni-a6299b282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:bharathsuntramoni09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://deekshitha-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://bharath9542530187.github.io/Bharath-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -94,7 +94,7 @@
 <p align="center">
   📧 <a href="mailto:bharathsuntramoni09@gmail.com">bharathsuntramoni09@gmail.com</a> &nbsp;|&nbsp;
   📞 +91 9542530187 &nbsp;|&nbsp;
-  🌐 <a href="https://deekshitha-portfolio.vercel.app/">Portfolio</a>
+  🌐 <a href="https://bharath9542530187.github.io/Bharath-portfolio/">Portfolio</a>
 </p>
 
 <p align="center"><i>⚡ I enjoy building data pipelines more than scrolling through them.</i></p>
