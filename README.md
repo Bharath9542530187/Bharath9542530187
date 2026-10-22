@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Bharath Suntramoni 👋</h1>
-<h3 align="center">☁️ AWS Data Engineer | building & deploying end-to-end data pipelines on AWS EC2 </h3>
+<h3 align="center">☁️ AWS Devops Engineer | building & deploying end-to-end data pipelines on AWS EC2 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bharath-suntramoni-a6299b282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
